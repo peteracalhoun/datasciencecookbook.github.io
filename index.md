@@ -10,7 +10,7 @@ A resource to help data scientists go from **problem to prototype**
 
 -----------------------------------------------
 » **Use the navigation bar at the top of this page**<br>
-» **Go to [_about_](/about) for more details on what the cookbook is**<br>
+» **Go to [_about_](./about) for more details on what the cookbook is**<br>
 » **Go to [_ingredients_](/ingredients)**<br>
 » **Go to [_recipes_](/recipes)**<br>
 » **Go to [_resources_](/resources) for we like**<br>
